@@ -1,0 +1,101 @@
+C:\Users\Solar\Desktop\Programming\MCCTC-Programming-Lab-21-23\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\obj\Debug\Write API to CSV.csproj.AssemblyReference.cache
+C:\Users\Solar\Desktop\Programming\MCCTC-Programming-Lab-21-23\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\obj\Debug\Write API to CSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\Solar\Desktop\Programming\MCCTC-Programming-Lab-21-23\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\obj\Debug\Write API to CSV.csproj.CoreCompileInputs.cache
+C:\Users\Solar\Desktop\Programming\MCCTC-Programming-Lab-21-23\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\Write API to CSV.exe.config
+C:\Users\Solar\Desktop\Programming\MCCTC-Programming-Lab-21-23\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\Write API to CSV.exe
+C:\Users\Solar\Desktop\Programming\MCCTC-Programming-Lab-21-23\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\Write API to CSV.pdb
+C:\Users\Solar\Desktop\Programming\MCCTC-Programming-Lab-21-23\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Solar\Desktop\Programming\MCCTC-Programming-Lab-21-23\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Solar\Desktop\Programming\MCCTC-Programming-Lab-21-23\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\obj\Debug\Write API to CSV.csproj.CopyComplete
+C:\Users\Solar\Desktop\Programming\MCCTC-Programming-Lab-21-23\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\obj\Debug\Write API to CSV.exe
+C:\Users\Solar\Desktop\Programming\MCCTC-Programming-Lab-21-23\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\obj\Debug\Write API to CSV.pdb
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\Write API to CSV.exe.config
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\Write API to CSV.exe
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\Write API to CSV.pdb
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\obj\Debug\Write API to CSV.csproj.AssemblyReference.cache
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\obj\Debug\Write API to CSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\obj\Debug\Write API to CSV.csproj.CoreCompileInputs.cache
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\obj\Debug\Write API to CSV.csproj.CopyComplete
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\obj\Debug\Write API to CSV.exe
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\obj\Debug\Write API to CSV.pdb
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\CsvHelper.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\System.Buffers.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\System.Memory.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\CsvHelper.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\System.Buffers.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\System.Memory.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\MoreLinq.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\System.ValueTuple.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\MoreLinq.pdb
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\MoreLinq.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3\API\Write API to CSV\Write API to CSV\bin\Debug\System.ValueTuple.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\obj\Debug\Write API to CSV.csproj.AssemblyReference.cache
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\obj\Debug\Write API to CSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\obj\Debug\Write API to CSV.csproj.CoreCompileInputs.cache
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\obj\Debug\Write API to CSV.exe
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\obj\Debug\Write API to CSV.pdb
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\Write API to CSV.exe.config
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\Write API to CSV.exe
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\Write API to CSV.pdb
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\CsvHelper.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\MoreLinq.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\System.Buffers.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\System.Memory.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\System.ValueTuple.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\CsvHelper.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\MoreLinq.pdb
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\MoreLinq.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\System.Buffers.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\System.Memory.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\bin\Debug\System.ValueTuple.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 3.4\API\Write API to CSV - Copy\Write API to CSV\obj\Debug\Write API to CSV.csproj.CopyComplete
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 5\API Presentation\Write API to CSV - Main\Write API to CSV\bin\Debug\Write API to CSV.exe.config
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 5\API Presentation\Write API to CSV - Main\Write API to CSV\bin\Debug\Write API to CSV.exe
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 5\API Presentation\Write API to CSV - Main\Write API to CSV\bin\Debug\Write API to CSV.pdb
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 5\API Presentation\Write API to CSV - Main\Write API to CSV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 5\API Presentation\Write API to CSV - Main\Write API to CSV\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 5\API Presentation\Write API to CSV - Main\Write API to CSV\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 5\API Presentation\Write API to CSV - Main\Write API to CSV\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 5\API Presentation\Write API to CSV - Main\Write API to CSV\obj\Debug\Write API to CSV.csproj.AssemblyReference.cache
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 5\API Presentation\Write API to CSV - Main\Write API to CSV\obj\Debug\Write API to CSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 5\API Presentation\Write API to CSV - Main\Write API to CSV\obj\Debug\Write API to CSV.csproj.CoreCompileInputs.cache
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 5\API Presentation\Write API to CSV - Main\Write API to CSV\obj\Debug\Write API to CSV.csproj.CopyComplete
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 5\API Presentation\Write API to CSV - Main\Write API to CSV\obj\Debug\Write API to CSV.exe
+C:\Users\Solar\Desktop\Programming\22-23 Programming Lab\Week 5\API Presentation\Write API to CSV - Main\Write API to CSV\obj\Debug\Write API to CSV.pdb
+C:\Users\Solar\Desktop\Write API to CSV - Main\Write API to CSV\bin\Debug\Write API to CSV.exe.config
+C:\Users\Solar\Desktop\Write API to CSV - Main\Write API to CSV\bin\Debug\Write API to CSV.exe
+C:\Users\Solar\Desktop\Write API to CSV - Main\Write API to CSV\bin\Debug\Write API to CSV.pdb
+C:\Users\Solar\Desktop\Write API to CSV - Main\Write API to CSV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Solar\Desktop\Write API to CSV - Main\Write API to CSV\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Solar\Desktop\Write API to CSV - Main\Write API to CSV\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Solar\Desktop\Write API to CSV - Main\Write API to CSV\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Solar\Desktop\Write API to CSV - Main\Write API to CSV\obj\Debug\Write API to CSV.csproj.AssemblyReference.cache
+C:\Users\Solar\Desktop\Write API to CSV - Main\Write API to CSV\obj\Debug\Write API to CSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\Solar\Desktop\Write API to CSV - Main\Write API to CSV\obj\Debug\Write API to CSV.csproj.CoreCompileInputs.cache
+C:\Users\Solar\Desktop\Write API to CSV - Main\Write API to CSV\obj\Debug\Write API to CSV.csproj.CopyComplete
+C:\Users\Solar\Desktop\Write API to CSV - Main\Write API to CSV\obj\Debug\Write API to CSV.exe
+C:\Users\Solar\Desktop\Write API to CSV - Main\Write API to CSV\obj\Debug\Write API to CSV.pdb
